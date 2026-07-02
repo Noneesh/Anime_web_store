@@ -115,7 +115,7 @@ $database = "anime_store";
 Open your browser and visit:
 
 ```
-http://localhost/Anime_web_store
+http://localhost/Anistore
 ```
 
 Users can:
